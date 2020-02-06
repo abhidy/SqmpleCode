@@ -1,0 +1,2 @@
+C:\GitRepository\PersonalGit\SqmpleCode\ResultParser\ResultParser\bin\Debug\ResultParser.exe.config
+C:\GitRepository\PersonalGit\SqmpleCode\ResultParser\ResultParser\obj\Debug\ResultParser.csproj.ResolveComReference.cache

@@ -1,0 +1,14 @@
+C:\GitRepository\PersonalGit\SqmpleCode\ResultParser\ResultParser\bin\Debug\ResultParser.exe.config
+C:\GitRepository\PersonalGit\SqmpleCode\ResultParser\ResultParser\bin\Debug\ResultParser.exe
+C:\GitRepository\PersonalGit\SqmpleCode\ResultParser\ResultParser\bin\Debug\ResultParser.pdb
+C:\GitRepository\PersonalGit\SqmpleCode\ResultParser\ResultParser\obj\Debug\NUnitResultParser.csprojResolveAssemblyReference.cache
+C:\GitRepository\PersonalGit\SqmpleCode\ResultParser\ResultParser\obj\Debug\NUnitResultParser.csproj.ResolveComReference.cache
+C:\GitRepository\PersonalGit\SqmpleCode\ResultParser\ResultParser\obj\Debug\ResultParser.exe
+C:\GitRepository\PersonalGit\SqmpleCode\ResultParser\ResultParser\obj\Debug\ResultParser.pdb
+C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\bin\Debug\ResultParser.exe.config
+C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\obj\Debug\NUnitResultParser.csproj.ResolveComReference.cache
+C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\obj\Debug\ResultParser.exe
+C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\obj\Debug\ResultParser.pdb
+C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\bin\Debug\ResultParser.exe
+C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\bin\Debug\ResultParser.pdb
+C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\obj\Debug\NUnitResultParser.csprojResolveAssemblyReference.cache

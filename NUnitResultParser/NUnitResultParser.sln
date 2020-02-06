@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultParser", "ResultParser\ResultParser.csproj", "{6576B4BF-AF13-4AE3-B4AA-131D3003E3DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitResultParser", "NUnitResultParser\NUnitResultParser.csproj", "{6576B4BF-AF13-4AE3-B4AA-131D3003E3DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
