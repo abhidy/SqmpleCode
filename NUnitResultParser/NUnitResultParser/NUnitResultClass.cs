@@ -13,6 +13,8 @@ using System.Xml.Serialization;
   <environment nunit-version="2.6.1.12217" clr-version="2.0.50727.8830" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\workspace\jenkins\jobs\Trunk-ConfLight CT ColorReproduction Tests\workspace" machine-name="LDRDINGBLRWS106" user="310083519" user-domain="LUX" />
   <culture-info current-culture="en-IN" current-uiculture="en-US" />
  * */
+
+
 namespace ResultParser
 {
     [XmlRoot(ElementName = "test-results")]

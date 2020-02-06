@@ -44,7 +44,7 @@
   <ItemGroup>
     <Compile Include="BaseCode.cs" />
     <Compile Include="GenerateReport.cs" />
-    <Compile Include="NUnitResult.cs" />
+    <Compile Include="NUnitResultClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="XmlParser.cs" />

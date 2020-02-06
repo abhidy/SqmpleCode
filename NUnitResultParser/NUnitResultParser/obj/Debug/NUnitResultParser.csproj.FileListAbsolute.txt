@@ -11,4 +11,3 @@ C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\obj\
 C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\obj\Debug\ResultParser.pdb
 C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\bin\Debug\ResultParser.exe
 C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\bin\Debug\ResultParser.pdb
-C:\GitRepository\PersonalGit\SqmpleCode\NUnitResultParser\NUnitResultParser\obj\Debug\NUnitResultParser.csprojResolveAssemblyReference.cache
